@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="gray-background">
       <img src={logo} lat="logo"/>
-      <h2>react</h2>
+      <h2>react_test</h2>
     </div>
   );
 }
